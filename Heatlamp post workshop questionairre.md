@@ -5,7 +5,8 @@
 #### Class Title
 
 
-1. Why did you choose to attend the workshop?
+1. Why did you choose to attend the workshop? <input type="text" name="attend_reason>
+
 
 
 
