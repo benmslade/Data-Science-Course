@@ -26,9 +26,9 @@ If not, what were you expecting form the workshop today?
 
 3. How engaging was the workshop today?
              
--[] Very engaging
--[] Somewhat engaging
--[] Not engaging at all
+- [ ] Very engaging
+- [ ] Somewhat engaging
+- [ ] Not engaging at all
 
 
 How could the workshop improve engagement?
@@ -36,9 +36,9 @@ How could the workshop improve engagement?
 
 Do you feel satisfied with what you learnt today?
   
--[] I have learnt new skills today.
--[] I have learnt some new skills.
--[] I feel I have not learnt new skills today.
+- [ ] I have learnt new skills today.
+- [ ] I have learnt some new skills.
+- [ ] I feel I have not learnt new skills today.
 
 
 4. What did you enjoy most about the workshop?
