@@ -15,9 +15,7 @@
   
 
 - [ ] The workshop was what I was expecting.
-
 - [ ] Partly what I was expecting.
-
 - [ ] The workshop was not what I was expecting.
 
 
